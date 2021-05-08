@@ -8,6 +8,7 @@ Vue.filter('currency', currency);
 
 Vue.config.productionTip = false;
 
+
 const app = new Vue({
   router,
   store,
